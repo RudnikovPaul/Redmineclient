@@ -1,0 +1,65 @@
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\bin\Debug\RedmineClient.exe.config
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\bin\Debug\RedmineClient.exe.manifest
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\bin\Debug\RedmineClient.application
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\bin\Debug\RedmineClient.exe
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\bin\Debug\RedmineClient.pdb
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\bin\Debug\Newtonsoft.Json.dll
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\bin\Debug\Newtonsoft.Json.xml
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.csprojResolveAssemblyReference.cache
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.About_Form.resources
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.Commit_Form.resources
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.Edit_issue_Form.resources
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.New_issue_Form.resources
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.Properties.Resources.resources
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.Form1.resources
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.SearchOthersForm.resources
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.Settings_Form.resources
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.csproj.GenerateResource.Cache
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.exe.manifest
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.application
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.exe
+D:\Rudnikov_Paul\RedmineClient_New_резервная_копия_на_16,06,17\RedmineClient\obj\Debug\RedmineClient.pdb
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\bin\Debug\RedmineClient.exe.config
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\bin\Debug\RedmineClient.exe.manifest
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\bin\Debug\RedmineClient.application
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\bin\Debug\RedmineClient.exe
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\bin\Debug\RedmineClient.pdb
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.csprojResolveAssemblyReference.cache
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.About_Form.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.Commit_Form.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.Edit_issue_Form.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.New_issue_Form.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.Properties.Resources.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.Form1.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.SearchOthersForm.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.Settings_Form.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.csproj.GenerateResource.Cache
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.exe.manifest
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.application
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.exe
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient1\RedmineClient\obj\Debug\RedmineClient.pdb
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\bin\Debug\RedmineClient.exe.config
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\bin\Debug\RedmineClient.exe.manifest
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\bin\Debug\RedmineClient.application
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\bin\Debug\RedmineClient.exe
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\bin\Debug\RedmineClient.pdb
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.csprojResolveAssemblyReference.cache
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.About_Form.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.Commit_Form.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.Edit_issue_Form.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.New_issue_Form.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.Properties.Resources.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.Form1.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.SearchOthersForm.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.Settings_Form.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.csproj.GenerateResource.Cache
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.exe.manifest
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.application
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.exe
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\obj\Debug\RedmineClient.pdb
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\bin\Debug\redmine-net40-api.dll
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\RedmineClient\RedmineClient\bin\Debug\redmine-net40-api.xml
