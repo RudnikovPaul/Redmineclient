@@ -1,0 +1,37 @@
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\bin\Debug\Redmine_Client_2.0.exe.config
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\bin\Debug\Redmine_Client_2.0.exe
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\bin\Debug\Redmine_Client_2.0.pdb
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\bin\Debug\redmine-net40-api.dll
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.AboutForm.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.CommitForm.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.EditIssueForm.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.MainForm.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.NewIssueForm.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.Properties.Resources.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.SearchForm.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.SettingsForm.resources
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2.0.csproj.GenerateResource.Cache
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2.0.exe
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2.0.pdb
+C:\Users\rudnikov_p\Documents\Visual Studio 2017\Projects\Redmine_Client_2.0\Redmine_Client_2.0\obj\Debug\Redmine_Client_2.0.csprojResolveAssemblyReference.cache
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\bin\Debug\Redmine_Client_2.0.exe.config
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\bin\Debug\Redmine_Client_2.0.exe
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\bin\Debug\Redmine_Client_2.0.pdb
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\bin\Debug\Newtonsoft.Json.dll
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\bin\Debug\redmine-net40-api.dll
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.AboutForm.resources
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.CommitForm.resources
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.EditIssueForm.resources
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.MainForm.resources
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.Properties.Resources.resources
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.SearchForm.resources
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.SettingsForm.resources
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2.0.csproj.GenerateResource.Cache
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2.0.exe
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2.0.pdb
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\bin\Debug\Redmine_Client_2.0.exe.manifest
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\bin\Debug\Redmine_Client_2.0.application
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2.0.exe.manifest
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2.0.application
+D:\projects\Redmine\RdmClient\Redmine_Client_2.0\obj\Debug\Redmine_Client_2._0.SplashForm.resources
